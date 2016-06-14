@@ -31,7 +31,22 @@
     <Compile Include="ex12.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ex13.py" />
+    <Compile Include="ex14.py" />
     <Compile Include="ex15.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex16.py" />
+    <Compile Include="ex17.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex18.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex19.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex20.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ex4.py" />
