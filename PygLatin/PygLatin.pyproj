@@ -49,6 +49,9 @@
     <Compile Include="ex20.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ex21.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ex4.py" />
     <Compile Include="ex5.py" />
     <Compile Include="ex7.py" />

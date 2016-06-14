@@ -1,4 +1,4 @@
-name = 'Iulii Cebotari'
+name = 'User Unknown'
 age = 28
 heightInM = 1.76 # mm
 g_ConstInches = 39.370 # Global Constant Coefficient to convert Meters to Inches
