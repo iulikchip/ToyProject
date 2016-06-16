@@ -64,16 +64,81 @@
     <Compile Include="ex31.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ex32.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex33.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex35.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex39.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ex4.py" />
+    <Compile Include="ex40.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ex5.py" />
     <Compile Include="ex7.py" />
     <Compile Include="ex8.py" />
     <Compile Include="ex9.py" />
+    <Compile Include="google-python-exercises\babynames\babynames.py" />
+    <Compile Include="google-python-exercises\babynames\solution\babynames.py" />
+    <Compile Include="google-python-exercises\basic\list1.py" />
+    <Compile Include="google-python-exercises\basic\list2.py" />
+    <Compile Include="google-python-exercises\basic\mimic.py" />
+    <Compile Include="google-python-exercises\basic\solution\list1.py" />
+    <Compile Include="google-python-exercises\basic\solution\list2.py" />
+    <Compile Include="google-python-exercises\basic\solution\mimic.py" />
+    <Compile Include="google-python-exercises\basic\solution\string1.py" />
+    <Compile Include="google-python-exercises\basic\solution\string2.py" />
+    <Compile Include="google-python-exercises\basic\solution\wordcount.py" />
+    <Compile Include="google-python-exercises\basic\string1.py" />
+    <Compile Include="google-python-exercises\basic\string2.py" />
+    <Compile Include="google-python-exercises\basic\wordcount.py" />
+    <Compile Include="google-python-exercises\copyspecial\copyspecial.py" />
+    <Compile Include="google-python-exercises\copyspecial\solution\copyspecial.py" />
+    <Compile Include="google-python-exercises\hello.py" />
+    <Compile Include="google-python-exercises\logpuzzle\logpuzzle.py" />
+    <Compile Include="google-python-exercises\logpuzzle\solution\logpuzzle.py" />
     <Compile Include="google.py" />
     <Compile Include="module1.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PygLatin.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="google-python-exercises\" />
+    <Folder Include="google-python-exercises\babynames\" />
+    <Folder Include="google-python-exercises\babynames\solution\" />
+    <Folder Include="google-python-exercises\basic\" />
+    <Folder Include="google-python-exercises\basic\solution\" />
+    <Folder Include="google-python-exercises\copyspecial\" />
+    <Folder Include="google-python-exercises\copyspecial\solution\" />
+    <Folder Include="google-python-exercises\logpuzzle\" />
+    <Folder Include="google-python-exercises\logpuzzle\solution\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="google-python-exercises\babynames\baby1990.html" />
+    <Content Include="google-python-exercises\babynames\baby1992.html" />
+    <Content Include="google-python-exercises\babynames\baby1994.html" />
+    <Content Include="google-python-exercises\babynames\baby1996.html" />
+    <Content Include="google-python-exercises\babynames\baby1998.html" />
+    <Content Include="google-python-exercises\babynames\baby2000.html" />
+    <Content Include="google-python-exercises\babynames\baby2002.html" />
+    <Content Include="google-python-exercises\babynames\baby2004.html" />
+    <Content Include="google-python-exercises\babynames\baby2006.html" />
+    <Content Include="google-python-exercises\babynames\baby2008.html" />
+    <Content Include="google-python-exercises\basic\alice.txt" />
+    <Content Include="google-python-exercises\basic\small.txt" />
+    <Content Include="google-python-exercises\copyspecial\xyz__hello__.txt" />
+    <Content Include="google-python-exercises\copyspecial\zz__something__.jpg" />
+    <Content Include="google-python-exercises\LICENSE.txt" />
+    <Content Include="google-python-exercises\logpuzzle\animal_code.google.com" />
+    <Content Include="google-python-exercises\logpuzzle\place_code.google.com" />
+    <Content Include="google-python-exercises\NOTICE.txt" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
